@@ -1,18 +1,18 @@
 class Script(object):
-    START_TXT = """Hello {},
+    START_TXT ="""𝙷𝙴𝙻𝙾 {},
+𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂  <a href=https://t.me/{}>{}</a>!\n 𝙸 𝙲𝙰𝙽 𝙿𝚁𝙾𝚅𝙸𝙳𝙴 𝙼𝙾𝚅𝙸𝙴𝚂, 𝙹𝚄𝚂𝚃 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 𝙰𝙽𝙳 𝙴𝙽𝙹𝙾𝚈💫.
 
-My name is <a href=https://t.me/{}>{}</a>!
+<b>💡 ꜰɪɴᴅ ᴏᴜᴛ ᴀʟʟ ᴛʜᴇ ʙᴏᴛ'𝚜 ᴄᴏᴍᴍᴀɴᴅ𝚜 ᴀɴᴅ ʜᴏᴡ ᴛʜᴇʏ ᴡᴏʀᴋ ʙʏ ᴄʟɪᴄᴋɪɴɢ ᴏɴ ᴛʜᴇ ➤ ⭕ 𝙷𝚎𝚕𝚙
 
-<b>I can provide Movies. A Telegram Auto Filter Bot. Its Easy To Use Me :)
+✯ ɪꜰ ʏᴏᴜ'ʀᴇ ᴅᴏɴ'ᴛ ᴜɴᴅᴇʀsᴛᴀɴᴅ. ᴡᴀᴛᴄʜ ᴛʀᴜᴛᴏʀɪᴀʟ ᴠɪᴅᴇᴏ 😁 ʟɪɴᴋ : soon i will update..</b>"""
 
-Just Add me to Your Group As Admin, Hit The Help Button For More Info..</b>"""
 
     HELP_TXT = """Hey {}
 
 <b>Here Is The Help For My Commands.</b>"""
 
     ABOUT_TXT = """<b>➥ My name: {}
-➥ Creator: <a href='https://t.me/zautekm'>Zaute Km</a>
+➥ Creator: <a href='https://t.me/Attitudeking_vj'>Attitude king</a>
 ➥ Library: <a href='https://docs.pyrogram.org/'>Pyrogram</a>
 ➥ Language: Python 𝟹
 ➥ Data Base: <a href='https://www.mongodb.com/'>MongoDB</a>
@@ -20,21 +20,21 @@ Just Add me to Your Group As Admin, Hit The Help Button For More Info..</b>"""
 ➥ Build Status: v2.0.1 [ Beta ]"""
 
     SOURCE_TXT = """<b>Source:</b>
-IMDb is a Open source project.
-Source: <a href='https://github.com/josprojects/tgmoviebot'>GitHub - Click here 👈</a>
+STR Movie Bot is Not a Open source project.
+Source: <a href='https://t.me/tgcalls_MusicXchat'>Private 😐</a>
 
-<b>DEVS:</b>
-- <a href='https://t.me/josprojects'>Jos Projects</a>
+<b>DEV:</b>
+- <a href='https://t.me/AttitudeKing_vj'>Jos Projects</a>
 
 <b>SUPPORT GROUP</b>
-- <a href='https://t.me/+y53tWFUw6Q43NzE9'>Jos Movie Club</a>"""
+- <a href='https://t.me/tgcalls_MusicXchat'>Bot Support Chat</a>"""
 
     MANUALFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and Dingdi will respond whenever a keyword is found the message
 
 <b>NOTE:</b>
-1. IMDb should have admin privillage.
+1. Movie should have admin privillage.
 2. Only admins can add filters in a chat.
 3. Alert buttons have a limit of 64 characters.
 
