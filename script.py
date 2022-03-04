@@ -24,7 +24,7 @@ STR Movie Bot is Not a Open source project.
 Source: <a href='https://t.me/tgcalls_MusicXchat'>Private 😐</a>
 
 <b>DEV:</b>
-- <a href='https://t.me/AttitudeKing_vj'>Jos Projects</a>
+- <a href='https://t.me/AttitudeKing_vj'>Attitude king</a>
 
 <b>SUPPORT GROUP</b>
 - <a href='https://t.me/tgcalls_MusicXchat'>Bot Support Chat</a>"""
